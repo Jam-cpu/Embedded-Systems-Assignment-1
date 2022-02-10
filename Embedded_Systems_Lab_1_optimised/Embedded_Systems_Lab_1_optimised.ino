@@ -42,3 +42,5 @@ void loop() {
       delayMicroseconds(d);               // ensure delay between pulse blocks only occurs as the last delay
     }
 }
+
+// https://github.com/Jam-cpu/Embedded-Systems-Assignment-1.git
